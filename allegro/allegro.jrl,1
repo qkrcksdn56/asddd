@@ -1,0 +1,74 @@
+\t (00:00:02) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:02)     Journal start - Tue Jul 16 17:36:34 2019
+\t (00:00:02)         Host=USER-PC User=user Pid=5932 CPUs=4
+\t (00:00:02) CmdLine= C:\Users\user\Downloads\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORKSPACE\ADU\EX9\allegro\EX9.brd
+\t (00:00:02) 
+   (00:00:02) ilinit Start.
+   (00:00:02) "C:/Users/user/Downloads/vscode_orcad/home/pcbenv"
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/USERS/USER/DESKTOP/WORKSPACE/ADU/EX9/allegro/EX9.brd
+\i (00:00:04) trapsize 10372
+\i (00:00:04) trapsize 10186
+\i (00:00:04) trapsize 10404
+\i (00:00:04) trapsize 9189
+\i (00:00:04) trapsize 13682
+\i (00:00:05) generaledit 
+\i (00:00:07) toolswap 
+\i (00:00:11) fillin OrCAD_PCB_Designer_PSpice
+\t (00:00:11) Opening existing design...
+\i (00:00:11) trapsize 13111
+\i (00:00:11) trapsize 12586
+\i (00:00:11) trapsize 12824
+\i (00:00:11) trapsize 13682
+\i (00:00:12) generaledit 
+\i (00:00:13) place manual 
+\i (00:00:14) setwindow form.plc_manual
+\i (00:00:14) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\e (00:00:14) Cannot load symbol 'MY_232'
+\i (00:00:14) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) pick grid 1942.79 7853.23
+\t (00:00:15) last pick:  1900.00 7900.00
+\i (00:00:18) setwindow form.plc_manual
+\i (00:00:18) FORM plc_manual cancel  
+\i (00:00:18) setwindow pcb
+\i (00:00:18) generaledit 
+\i (00:00:20) enved 
+\i (00:00:21) generaledit 
+\i (00:00:22) setwindow form.prfedit
+\i (00:00:22) FORM prfedit treelist  Paths 
+\i (00:00:23) FORM prfedit treelist  Library Paths 
+\i (00:00:26) FORM prfedit psmpath  
+\i (00:01:29) FORM prfedit parampath  
+\i (00:01:31) FORM prfedit parampath  
+\i (00:01:33) FORM prfedit padpath  
+\i (00:01:35) FORM prfedit parampath  
+\i (00:01:36) FORM prfedit padpath  
+\i (00:02:04) FORM prfedit done  
+\i (00:02:09) setwindow pcb
+\i (00:02:09) place manual 
+\i (00:02:11) setwindow form.plc_manual
+\i (00:02:11) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\e (00:02:11) Cannot load symbol 'MY_232'
+\i (00:02:11) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:02:11) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\i (00:02:11) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) pick grid 32480.10 14858.21
+\t (00:02:13) last pick:  32500.00 14900.00
+\e (00:02:13) Cannot load symbol 'MY_232'
+\i (00:02:15) setwindow form.plc_manual
+\i (00:02:15) FORM plc_manual hide  
+\i (00:02:15) setwindow pcb
+\i (00:02:15) pick grid 15706.47 12368.16
+\t (00:02:15) last pick:  15700.00 12400.00
+\i (00:02:15) pick grid 21042.29 12368.16
+\t (00:02:15) last pick:  21000.00 12400.00
+\i (00:02:16) pick grid 18880.60 13681.59
+\t (00:02:16) last pick:  18900.00 13700.00
+\i (00:02:16) pick grid 17594.53 14256.22
+\t (00:02:16) last pick:  17600.00 14300.00
+\i (00:02:17) exit 
+\e (00:02:17) Do you want to save the changes you made to C:/USERS/USER/DESKTOP/WORKSPACE/ADU/EX9/allegro/EX9.brd?
+\i (00:02:19) fillin no 
+\t (00:02:19)     Journal end - Tue Jul 16 17:38:52 2019

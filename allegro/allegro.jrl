@@ -1,0 +1,73 @@
+\t (00:00:00) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:00)     Journal start - Tue Jul 16 17:42:15 2019
+\t (00:00:00)         Host=USER-PC User=user Pid=1476 CPUs=4
+\t (00:00:00) CmdLine= C:\Users\user\Downloads\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORKSPACE\ADU\EX9\allegro\EX9.brd
+\t (00:00:00) 
+   (00:00:00) ilinit Start.
+   (00:00:00) "C:/Users/user/Downloads/vscode_orcad/home/pcbenv"
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/USERS/USER/DESKTOP/WORKSPACE/ADU/EX9/allegro/EX9.brd
+\i (00:00:02) trapsize 10372
+\i (00:00:02) trapsize 10186
+\i (00:00:02) trapsize 10404
+\i (00:00:02) trapsize 9189
+\i (00:00:02) trapsize 13682
+\i (00:00:03) generaledit 
+\i (00:00:10) place manual 
+\i (00:00:11) setwindow form.plc_manual
+\i (00:00:11) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\w (00:00:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:11) Placing IC1 / ATMEGA48-TQ32_2_TQFP32_ATMEGA48 / TQFP32 on Top.
+\i (00:00:11) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:00:12) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\i (00:00:12) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:00:13) FORM plc_manual hide  
+\i (00:00:13) setwindow pcb
+\i (00:00:13) pick grid 16226.37 12258.71
+\t (00:00:13) last pick:  16200.00 12300.00
+\t (00:00:13) Placing IC2 / ATMEGA48-TQ32_2_TQFP32_ATMEGA48 / TQFP32 on Top.
+\i (00:00:15) pick grid 18442.79 12258.71
+\t (00:00:15) last pick:  18400.00 12300.00
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 17211.44 12258.71
+\i (00:00:15) trapsize 6841
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 17211.44 12258.71
+\i (00:00:15) trapsize 3420
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 17211.44 12258.72
+\i (00:00:15) trapsize 1710
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 17211.44 12258.72
+\i (00:00:15) trapsize 855
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 17211.45 12258.72
+\i (00:00:15) trapsize 428
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 17225.98 12251.03
+\i (00:00:16) trapsize 855
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 17225.99 12251.03
+\i (00:00:16) trapsize 1710
+\i (00:00:17) pick grid 17219.15 12090.27
+\t (00:00:17) last pick:  17200.00 12100.00
+\i (00:00:18) Esc 
+\i (00:00:19) pick grid 18837.00 12839.33
+\t (00:00:19) last pick:  18800.00 12800.00
+\i (00:00:19) pick grid 18399.19 12312.59
+\t (00:00:19) last pick:  18400.00 12300.00
+\t (00:00:19) Moving IC2 / ATMEGA48-TQ32_2_TQFP32_ATMEGA48 / TQFP32.
+\t (00:00:19) last pick:  18400.00 12300.00
+\i (00:00:21) pick grid 17715.11 12251.03
+\t (00:00:21) last pick:  17700.00 12300.00
+\i (00:00:29) exit 
+\e (00:00:29) Do you want to save the changes you made to EX9.brd?
+\i (00:00:31) fillin yes 
+\t (00:00:31)     Journal end - Tue Jul 16 17:42:46 2019
